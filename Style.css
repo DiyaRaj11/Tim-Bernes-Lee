@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background:linear-gradient(#0762f3,#f386d2 ) ;
+}
+#Welcome{
+    background:linear-gradient(#6c10c2,#bf86f3 ) ;
+    padding: 20px;
+}
+#Timimg{
+width: 200;
+height: 200;
+border-radius: 50%;
+}
+#Bio{
+    margin: 5%;
+    margin-left: 300px;
+    margin-right: 300px;
+
+} 
+.Menu{
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;float: right;
+
+}
+.links{
+    display: inline;
+   float: left;
+   color: rgb(248, 154, 232);
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:backdrop;
+    font-size:20px;
+}
+.links:hover{
+background-color: rgb(29, 4, 248);
+}
+h1{
+    font-size: 50px;
+color: blue;
+}
+iframe{
+    padding: 30px;
+}
+#Work{
+    background-color: rgb(251, 8, 109);
+}
+.line{
+    width: 200px;
+    height: 5px;
+    background:linear-gradient(#a4e0bb 0%,#876543 100%);
+    text-align:center;
+    margin: 8px auto;
+}
